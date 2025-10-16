@@ -2,46 +2,78 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Soporte al Cliente
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Procedimiento General
 
-## Getting Started
 
-Get started by **creating a new site**.
+### Objetivo:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Garantizar una atención eficiente, clara y estandarizada a todos los contactos de clientes, asegurando que los casos se registren correctamente, se comuniquen avances y se resuelvan o escalen según corresponda.
 
-### What you'll need
+### Procedimiento
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+#### Recepción del contacto
 
-## Generate a new site
+Todos los casos se reciben por WhatsApp, correo electrónico, webchat o redes sociales.
 
-Generate a new Docusaurus site using the **classic template**.
+Se debe responder lo antes posible por el mismo canal, el SLA de Primera Respuesta es de 20 minutos.
 
-The classic template will automatically be added to your project after you run the command:
+La primera respuesta debe ser cordial, cercana y contener un mensaje que confirme que el caso está en proceso de atención.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+#### Identificación del motivo y solicitud de evidencias
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Debemos indagar hasta comprender claramente el problema o solicitud del cliente.
 
-## Start your site
+Solicitar evidencia según corresponda:
 
-Run the development server:
+Para fallas técnicas: ticket afectado, captura de pantalla o video, o una reunión breve para demostrar el problema.
 
-```bash
-cd my-website
-npm run start
-```
+Para pedidos o requerimientos: explicación clara de lo que necesita el cliente.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Registrar toda la información en nota interna del caso, incluyendo cualquier acción fuera del sistema.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+#### Registro del caso en el sistema
+
+Debemos completar el caso asegurando que toda la información esté documentada.
+
+Mantener actualizada las notas internas con acciones realizadas y comunicaciones externas.
+
+
+#### Intento de replicar el problema
+
+Es importante replicar el problema si es posible, para entender su alcance:
+
+Por ejemplo, iniciar una conversación en el webchat si el cliente reporta que la IA no funciona en ese canal y probar en otros canales para descartar problemas generales.
+
+Si no es posible replicar, profundizar en la comprensión del problema mediante evidencia del cliente o reuniones cortas de demostración.
+
+#### Comunicación con el cliente
+
+Mantener informado al cliente desde el primer contacto y a lo largo del proceso.
+
+La comunicación debe ser flexible, cercana y contenedora, mostrando que el caso está siendo gestionado.
+
+Informar avances importantes, tiempos estimados y pasos siguientes.
+
+
+#### Resolución o escalamiento
+
+Resolver directamente el problema siempre que sea posible.
+
+Escalar cuando corresponda:
+
+A Comercial: solicitudes de agregar canales, licencias u otros servicios nuevos.
+
+A Equipo Técnico: caídas de la plataforma o problemas de funcionalidad.
+
+Registrar todas las acciones tomadas antes del escalamiento en el ticket.
+
+
+#### Cierre del caso y registro final
+
+Documentar la resolución en el sistema y actualizar la nota interna con todos los pasos realizados.
+
+Informar al cliente confirmando que el caso fue resuelto y ofreciendo canales de seguimiento.
