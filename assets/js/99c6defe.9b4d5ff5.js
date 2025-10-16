@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksoporte_helpia=globalThis.webpackChunksoporte_helpia||[]).push([[1360],{6936:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/soporte-helpia/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
